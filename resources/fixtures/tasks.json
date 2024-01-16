@@ -1,0 +1,57 @@
+{
+    "create": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "iron.man@avengers.com",
+            "password": "pwd123"
+        },
+        "task":{
+            "name": "Criar nova Mark",
+            "tags": ["armadura", "numero", "traje"]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Gus Gus",
+            "email": "gus@gus.com",
+            "password": "gus123"
+        },
+        "task":{
+            "name": "Recrutar novos meta humanos",
+            "tags": []
+        }
+    },
+    "tags_limit": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "iron.man@avengers.com",
+            "password": "pwd123"
+        },
+        "task":{
+            "name": "Criar nova Mark",
+            "tags": ["armadura", "numero", "traje", "limit"]
+        }
+    },
+    "done": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "iron.man@avengers.com",
+            "password": "pwd123"
+        },
+        "task":{
+            "name": "Criar nova Mark",
+            "tags": ["armadura", "numero", "traje"]
+        }
+    },
+    "delete": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "iron.man@avengers.com",
+            "password": "pwd123"
+        },
+        "task":{
+            "name": "Criar nova Mark",
+            "tags": ["armadura", "numero", "traje"]
+        }
+    }
+}
